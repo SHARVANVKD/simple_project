@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    //login page
+
+    <string name="new_member">A New Member ....!</string>
+    <string name="login_btn">Login</string>
+    <string name="edt_U_name">User Name</string>
+    <string name="edt_pwd">Password</string>
+    <string name="btn_reg">Registration</string>
+
+    //registration page
+    <string name="edt_phone">Phone</string>
+    <string name="edt_name">Name</string>
+
+    //notification
+
+    <string name="notification_activity">NotificationView</string>
+    //fb
+
+    <string name="facebook_app_id">274606081551788</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
